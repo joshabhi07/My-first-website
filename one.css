@@ -1,0 +1,12 @@
+a 
+{
+    background-color: powderblue;
+}
+/*.nvd{
+    background-color: red;
+}*/
+
+a[target]{
+    background-color: yellow;
+
+}
